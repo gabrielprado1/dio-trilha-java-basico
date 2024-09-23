@@ -16,5 +16,5 @@ classDiagram
     class NavegadorInternet{
       +atualizarPagina()
       +adicionarNovaAba()
-      exibirPagina(String url)
+      +exibirPagina(String url)
     }
